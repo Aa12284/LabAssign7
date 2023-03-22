@@ -28,7 +28,7 @@ printf("Array: {97, 16, 45, 63, 13, 22, 7, 58, 72} \n");
 	
 	for (a = 0; a < n; a++) {
 		
-		printf("Index: %d;  # of Swaps: %d\n", a, dataSwap[a]);
+		printf("Iteration #%d: %d\n", a, dataSwap[a]);
 	}
 
 	
